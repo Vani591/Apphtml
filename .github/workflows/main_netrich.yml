@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'netrich'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_20432FD947C94E88B08A638BC822EC74 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CFD6948DBAD4795B0DC4AEE2363C81F }}
           package: .
